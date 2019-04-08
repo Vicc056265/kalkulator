@@ -6,3 +6,4 @@ def dodaj():
 
 	
 print("Koniec programu")
+print("papa")
