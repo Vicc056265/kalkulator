@@ -8,6 +8,5 @@ def dodaj():
 	b = int(input())
 	print(a+b)
 
-	
 get_help()
 print("Koniec programu")
